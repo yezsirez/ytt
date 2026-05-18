@@ -1,4 +1,4 @@
-const API_URL = "https://YOUR-RENDER-URL.onrender.com/api/video";
+const API_URL = "https://ytt-5zcl.onrender.com/api/video";
 
 async function fetchVideo() {
 
